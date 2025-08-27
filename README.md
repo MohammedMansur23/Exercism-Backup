@@ -1,5 +1,7 @@
 # 🚀 Yasin & Mansur's Exercism Backup  
 
+![Weird Cousin Approved](https://img.shields.io/badge/Weird_Cousin-Approved-✅-blueviolet?style=for-the-badge)  
+
 Hey there! 👋 Welcome to the **backup storage** for **Yasin** and **Mansur's** Exercism progress.  
 
 ---
